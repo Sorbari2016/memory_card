@@ -2,7 +2,12 @@ import Card from "./Card";
 
 function Main({ cryptos, loading, error, onCardSelect }) {
   if (loading) return <p>Loading images...</p>;
-  if (error) return <p>Failure loading images, Network error</p>;
+  if (error)
+    return (
+      <main>
+        <p>Failure loading images, Network error</p>
+      </main>
+    );
 
   return (
     <main className="card-grid">
