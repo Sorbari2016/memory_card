@@ -37,9 +37,9 @@ The game ends instantly if you accidentally click a picture you already selected
 
 ### App Screenshot
 
-![Normal View](https://github.com/Sorbari2016/simon_game/blob/main/assets/images/memory-card-game-zoom-out.png)
+![Normal View](https://github.com/Sorbari2016/memory_card/blob/main/src/assets/images/memory-game-zoom-out.png)
 
-![Zoom in](https://github.com/Sorbari2016/simon_game/blob/main/assets/images/memory-card-game-zoom-in.png)
+![Zoom in](https://github.com/Sorbari2016/memory_card/blob/main/src/assets/images/memory-card-game-zoom-in.png)
 
 ### Game
 
